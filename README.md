@@ -1,5 +1,5 @@
 3 курс
 
-Methodologies for developing intelligent computer programs
+Сoursework on Methodologies for developing intelligent computer programs
 
-Методології розробки інтелектуальних комп'ютерних програм
+Курсова робота з Методології розробки інтелектуальних комп'ютерних програм
